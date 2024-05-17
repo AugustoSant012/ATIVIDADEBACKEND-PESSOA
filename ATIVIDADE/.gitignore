@@ -1,0 +1,9 @@
+
+nodemon.json
+
+/logs/
+/node_modules/
+
+/models/
+
+.env
